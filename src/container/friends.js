@@ -22,5 +22,53 @@ export const friends = [
     name: 'note',
     username: 'kazuha',
     hobby: 'hidden enemy'
+  },
+      {
+    id: 5,
+    name: 'rupesh',
+    username: 'rupa',
+    hobby: 'dhokabaj'
+  },
+        {
+    id: 6,
+    name: 'suraj',
+    username: 'surya',
+    hobby: 'bhadwa giri'
+  },
+        {
+    id: 7,
+    name: 'kon(foxxy)',
+    username: 'rahul',
+    hobby: 'galiyon me PHD'
+  },
+        {
+    id: 8,
+    name: 'ayush',
+    username: 'zel',
+    hobby: 'homie lover #1'
+  },
+        {
+    id: 9,
+    name: 'aman',
+    username: 'aloo',
+    hobby: 'homie lover #2'
+  },
+        {
+    id: 10,
+    name: 'divakar',
+    username: 'drex',
+    hobby: "loli's king"
+  },
+        {
+    id: 11,
+    name: 'rajesh',
+    username: 'gojo' ,
+    hobby: 'bike lover'
+  },
+        {
+    id: 12,
+    name: 'gourav',
+    username: 'noctis',
+    hobby: 'bike lover'
   }
   ];
